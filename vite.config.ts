@@ -4,9 +4,8 @@ import path from "path";
 
 const port = process.env.PORT ? Number(process.env.PORT) : 5173;
 const basePath =
-  process.env.BASE_PATH || process.env.NODE_ENV === "production"
-    ? "/portfolio/"
-    : "/";
+  process.env.BASE_PATH ||
+  (process.env.NODE_ENV === "production" ? "/portfolio/" : "/");
 
 export default defineConfig({
   base: basePath,
