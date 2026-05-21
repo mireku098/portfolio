@@ -1,0 +1,631 @@
+<<<<<<< HEAD
+# Michael Mireku — Portfolio Website Rewrite
+
+## HERO SECTION
+
+### Headline
+
+Full-Stack Software Engineer Building Scalable Business Systems & Production-Ready Digital Products
+
+### Subheadline
+
+I design, develop, and deploy modern web and mobile applications focused on real-world business solutions, scalable backend systems, and product-driven engineering.
+
+### CTA Buttons
+
+* View Projects
+* Contact Me
+* Download CV
+
+### Quick Intro
+
+Based in Ghana and open to remote opportunities, I specialize in full-stack engineering, backend architecture, cloud integrations, and technical project leadership. I’ve worked on customer platforms, e-commerce systems, OCR applications, and production-ready business solutions using technologies like Node.js, React, Laravel, Flask, Firebase, Appwrite, and MySQL.
+
+---
+
+# ABOUT SECTION
+
+## About Me
+
+I’m a full-stack software engineer and technical lead passionate about building systems that solve real operational and business problems.
+
+Over the past 3+ years, I’ve worked across frontend development, backend engineering, API integrations, database architecture, deployment workflows, and mobile application packaging. My experience ranges from developing student collaboration systems and OCR platforms to leading the development of production-ready e-commerce and customer management platforms.
+
+I enjoy turning ideas into scalable digital products while balancing system performance, maintainability, and user experience.
+
+What separates me from many developers is my ability to adapt quickly across technologies, own projects from planning to deployment, and contribute both technically and strategically during product development.
+
+---
+
+# EXPERIENCE SECTION
+
+## Head of Development / Technical Team Lead
+
+### Phluowise Company LTD
+
+2026 – Present
+
+Leading the development of a full-scale e-commerce and customer management platform for water distribution companies and their customers.
+
+### Key Contributions
+
+* Managing frontend, backend, and mobile development workflows
+* Designing scalable system architecture and feature planning
+* Integrating Appwrite backend services and Firebase authentication systems
+* Building customer-facing interfaces and business management systems
+* Converting web applications into Android-ready releases using Android Studio
+* Publishing and maintaining production applications on Google Play Store
+* Coordinating technical decisions and product implementation workflows
+
+### Technologies
+
+React • Node.js • Firebase • Appwrite • Android Studio • MySQL
+
+---
+
+## Web Developer
+
+### Ropat Systems
+
+2025 – Present
+
+Contributing to internal and client-facing business systems while supporting backend development, feature implementation, bug fixing, deployment, and system maintenance.
+
+### Key Contributions
+
+* Optimized production systems and database performance
+* Refactored legacy codebases for maintainability and scalability
+* Assisted in deployment, hotfixes, and post-release maintenance
+* Worked across frontend and backend application layers
+* Collaborated with stakeholders to implement technical business solutions
+
+### Technologies
+
+PHP (Laravel) • Node.js • React • MySQL • JavaScript
+
+---
+
+# FEATURED PROJECTS SECTION
+
+## 01 — Phluowise Business Platform
+
+### Water Distribution E-Commerce & Customer Management System
+
+A production-ready business platform designed for water distribution companies and their customers.
+
+The system provides customer ordering workflows, account management, business operations support, authentication systems, messaging functionality, and mobile deployment support.
+
+### Highlights
+
+* Full-stack business platform architecture
+* Firebase authentication and messaging integration
+* Appwrite backend services implementation
+* Android deployment workflows (AAB/APK)
+* Production-ready customer application
+* Responsive frontend design
+
+### Technologies
+
+React • Node.js • Firebase • Appwrite • Android Studio
+
+### Buttons
+
+* View GitHub
+* View Live System
+
+---
+
+## 02 — Citsa Konnect
+
+### Student Collaboration & Networking Platform
+
+A centralized collaboration platform designed to improve communication and networking among students and alumni.
+
+Built to replace fragmented communication systems and provide a structured digital platform for collaboration, networking, and interaction.
+
+### Highlights
+
+* Authentication & role-based access
+* Private messaging system
+* Student networking features
+* Centralized communication workflows
+* Backend service architecture
+
+### Technologies
+
+PHP • MySQL • JavaScript • Bootstrap
+
+### Buttons
+
+* View GitHub
+* View Case Study
+
+---
+
+## 03 — OCR Hub
+
+### AI-Powered OCR & Document Processing Platform
+
+A web-based OCR application designed to extract text from images and PDF documents using integrated OCR services and backend processing workflows.
+
+### Highlights
+
+* OCR extraction from images and PDFs
+* API integrations and backend workflows
+* File processing pipelines
+* Responsive frontend interface
+* Publicly accessible deployment
+
+### Technologies
+
+PHP • Flask • OCR APIs • Bootstrap
+
+### Buttons
+
+* View Live Demo
+* View GitHub
+
+---
+
+# SKILLS SECTION
+
+## Frontend Development
+
+* React
+* JavaScript (ES6+)
+* Tailwind CSS
+* Bootstrap
+* Responsive UI Development
+
+## Backend Development
+
+* Node.js
+* Express.js
+* PHP (Laravel)
+* Flask
+* Django
+* REST APIs
+
+## Databases & Cloud Services
+
+* MySQL
+* MongoDB
+* Firebase
+* Appwrite
+
+## Tools & Deployment
+
+* Git & GitHub
+* Linux
+* cPanel
+* Android Studio
+* Deployment & Maintenance
+
+---
+
+# WHY WORK WITH ME SECTION
+
+## I Focus on Real Product Delivery
+
+I don’t just build interfaces or isolated backend services.
+I focus on complete systems — from architecture and development to deployment and production support.
+
+### What I Bring
+
+* Full-stack engineering experience
+* Product-focused thinking
+* Strong backend architecture skills
+* Ability to adapt quickly across technologies
+* Technical leadership and project coordination
+* Production deployment experience
+* Business-oriented problem solving
+
+---
+
+# STATS / ACHIEVEMENTS SECTION
+
+* 3+ Years Experience
+* 10+ Client & Business Solutions Delivered
+* Production Systems Used by Real Users
+* Android Applications Published to Google Play Store
+* Full-Stack Systems Built from Concept to Deployment
+
+---
+
+# CONTACT SECTION
+
+## Let’s Build Something Great
+
+I’m currently open to:
+
+* Remote opportunities
+* Full-stack engineering roles
+* Backend engineering roles
+* Technical lead opportunities
+* Freelance & contract projects
+* Startup collaborations
+
+### Contact Information
+
+Email: [michaelmireku098@gmail.com](mailto:michaelmireku098@gmail.com)
+GitHub: github.com/mireku098
+Portfolio: mireku098.github.io/portfolio
+Location: Accra, Ghana
+
+### CTA Buttons
+
+* Contact Me
+* Download CV
+* View GitHub
+
+---
+
+# DESIGN & STRUCTURE RECOMMENDATIONS
+
+## Visual Direction
+
+Your portfolio should feel:
+
+* modern
+* clean
+* technical
+* product-focused
+* minimal but premium
+
+Avoid:
+
+* overcrowded sections
+* too many animations
+* random gradients everywhere
+* skill bars
+* generic templates
+
+---
+
+## Recommended Stack for Portfolio Rebuild
+
+### Frontend
+
+* React + Vite
+* Tailwind CSS
+* Framer Motion
+
+### Deployment
+
+* Vercel or Netlify
+
+### UI Direction
+
+* Dark theme
+* Strong typography
+* Minimal color palette
+* Large project cards
+* Smooth subtle animations
+
+---
+
+# IMPORTANT STRATEGIC NOTE
+
+Your portfolio should no longer look like:
+“Developer learning technologies.”
+
+It should look like:
+“Engineer building scalable products and business systems.”
+
+That positioning alone changes how recruiters, clients, and companies evaluate you.
+=======
+# Michael Mireku — Portfolio Website Rewrite
+
+## HERO SECTION
+
+### Headline
+
+Full-Stack Software Engineer Building Scalable Business Systems & Production-Ready Digital Products
+
+### Subheadline
+
+I design, develop, and deploy modern web and mobile applications focused on real-world business solutions, scalable backend systems, and product-driven engineering.
+
+### CTA Buttons
+
+* View Projects
+* Contact Me
+* Download CV
+
+### Quick Intro
+
+Based in Ghana and open to remote opportunities, I specialize in full-stack engineering, backend architecture, cloud integrations, and technical project leadership. I’ve worked on customer platforms, e-commerce systems, OCR applications, and production-ready business solutions using technologies like Node.js, React, Laravel, Flask, Firebase, Appwrite, and MySQL.
+
+---
+
+# ABOUT SECTION
+
+## About Me
+
+I’m a full-stack software engineer and technical lead passionate about building systems that solve real operational and business problems.
+
+Over the past 3+ years, I’ve worked across frontend development, backend engineering, API integrations, database architecture, deployment workflows, and mobile application packaging. My experience ranges from developing student collaboration systems and OCR platforms to leading the development of production-ready e-commerce and customer management platforms.
+
+I enjoy turning ideas into scalable digital products while balancing system performance, maintainability, and user experience.
+
+What separates me from many developers is my ability to adapt quickly across technologies, own projects from planning to deployment, and contribute both technically and strategically during product development.
+
+---
+
+# EXPERIENCE SECTION
+
+## Head of Development / Technical Team Lead
+
+### Phluowise Company LTD
+
+2026 – Present
+
+Leading the development of a full-scale e-commerce and customer management platform for water distribution companies and their customers.
+
+### Key Contributions
+
+* Managing frontend, backend, and mobile development workflows
+* Designing scalable system architecture and feature planning
+* Integrating Appwrite backend services and Firebase authentication systems
+* Building customer-facing interfaces and business management systems
+* Converting web applications into Android-ready releases using Android Studio
+* Publishing and maintaining production applications on Google Play Store
+* Coordinating technical decisions and product implementation workflows
+
+### Technologies
+
+React • Node.js • Firebase • Appwrite • Android Studio • MySQL
+
+---
+
+## Web Developer
+
+### Ropat Systems
+
+2025 – Present
+
+Contributing to internal and client-facing business systems while supporting backend development, feature implementation, bug fixing, deployment, and system maintenance.
+
+### Key Contributions
+
+* Optimized production systems and database performance
+* Refactored legacy codebases for maintainability and scalability
+* Assisted in deployment, hotfixes, and post-release maintenance
+* Worked across frontend and backend application layers
+* Collaborated with stakeholders to implement technical business solutions
+
+### Technologies
+
+PHP (Laravel) • Node.js • React • MySQL • JavaScript
+
+---
+
+# FEATURED PROJECTS SECTION
+
+## 01 — Phluowise Business Platform
+
+### Water Distribution E-Commerce & Customer Management System
+
+A production-ready business platform designed for water distribution companies and their customers.
+
+The system provides customer ordering workflows, account management, business operations support, authentication systems, messaging functionality, and mobile deployment support.
+
+### Highlights
+
+* Full-stack business platform architecture
+* Firebase authentication and messaging integration
+* Appwrite backend services implementation
+* Android deployment workflows (AAB/APK)
+* Production-ready customer application
+* Responsive frontend design
+
+### Technologies
+
+React • Node.js • Firebase • Appwrite • Android Studio
+
+### Buttons
+
+* View GitHub
+* View Live System
+
+---
+
+## 02 — Citsa Konnect
+
+### Student Collaboration & Networking Platform
+
+A centralized collaboration platform designed to improve communication and networking among students and alumni.
+
+Built to replace fragmented communication systems and provide a structured digital platform for collaboration, networking, and interaction.
+
+### Highlights
+
+* Authentication & role-based access
+* Private messaging system
+* Student networking features
+* Centralized communication workflows
+* Backend service architecture
+
+### Technologies
+
+PHP • MySQL • JavaScript • Bootstrap
+
+### Buttons
+
+* View GitHub
+* View Case Study
+
+---
+
+## 03 — OCR Hub
+
+### AI-Powered OCR & Document Processing Platform
+
+A web-based OCR application designed to extract text from images and PDF documents using integrated OCR services and backend processing workflows.
+
+### Highlights
+
+* OCR extraction from images and PDFs
+* API integrations and backend workflows
+* File processing pipelines
+* Responsive frontend interface
+* Publicly accessible deployment
+
+### Technologies
+
+PHP • Flask • OCR APIs • Bootstrap
+
+### Buttons
+
+* View Live Demo
+* View GitHub
+
+---
+
+# SKILLS SECTION
+
+## Frontend Development
+
+* React
+* JavaScript (ES6+)
+* Tailwind CSS
+* Bootstrap
+* Responsive UI Development
+
+## Backend Development
+
+* Node.js
+* Express.js
+* PHP (Laravel)
+* Flask
+* Django
+* REST APIs
+
+## Databases & Cloud Services
+
+* MySQL
+* MongoDB
+* Firebase
+* Appwrite
+
+## Tools & Deployment
+
+* Git & GitHub
+* Linux
+* cPanel
+* Android Studio
+* Deployment & Maintenance
+
+---
+
+# WHY WORK WITH ME SECTION
+
+## I Focus on Real Product Delivery
+
+I don’t just build interfaces or isolated backend services.
+I focus on complete systems — from architecture and development to deployment and production support.
+
+### What I Bring
+
+* Full-stack engineering experience
+* Product-focused thinking
+* Strong backend architecture skills
+* Ability to adapt quickly across technologies
+* Technical leadership and project coordination
+* Production deployment experience
+* Business-oriented problem solving
+
+---
+
+# STATS / ACHIEVEMENTS SECTION
+
+* 3+ Years Experience
+* 10+ Client & Business Solutions Delivered
+* Production Systems Used by Real Users
+* Android Applications Published to Google Play Store
+* Full-Stack Systems Built from Concept to Deployment
+
+---
+
+# CONTACT SECTION
+
+## Let’s Build Something Great
+
+I’m currently open to:
+
+* Remote opportunities
+* Full-stack engineering roles
+* Backend engineering roles
+* Technical lead opportunities
+* Freelance & contract projects
+* Startup collaborations
+
+### Contact Information
+
+Email: [michaelmireku098@gmail.com](mailto:michaelmireku098@gmail.com)
+GitHub: github.com/mireku098
+Portfolio: mireku098.github.io/portfolio
+Location: Accra, Ghana
+
+### CTA Buttons
+
+* Contact Me
+* Download CV
+* View GitHub
+
+---
+
+# DESIGN & STRUCTURE RECOMMENDATIONS
+
+## Visual Direction
+
+Your portfolio should feel:
+
+* modern
+* clean
+* technical
+* product-focused
+* minimal but premium
+
+Avoid:
+
+* overcrowded sections
+* too many animations
+* random gradients everywhere
+* skill bars
+* generic templates
+
+---
+
+## Recommended Stack for Portfolio Rebuild
+
+### Frontend
+
+* React + Vite
+* Tailwind CSS
+* Framer Motion
+
+### Deployment
+
+* Vercel or Netlify
+
+### UI Direction
+
+* Dark theme
+* Strong typography
+* Minimal color palette
+* Large project cards
+* Smooth subtle animations
+
+---
+
+# IMPORTANT STRATEGIC NOTE
+
+Your portfolio should no longer look like:
+“Developer learning technologies.”
+
+It should look like:
+“Engineer building scalable products and business systems.”
+
+That positioning alone changes how recruiters, clients, and companies evaluate you.
+>>>>>>> 9aa053242f081d0b570019fd76b5e1c277b53f45
