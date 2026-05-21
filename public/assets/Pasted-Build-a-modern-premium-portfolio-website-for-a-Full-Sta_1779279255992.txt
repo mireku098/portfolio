@@ -1,0 +1,148 @@
+Build a modern premium portfolio website for a Full-Stack Software Engineer and Technical Lead named Michael Mireku.
+
+The website should feel like a high-end startup engineer portfolio — clean, professional, technical, product-focused, and modern.
+
+STYLE & DESIGN:
+
+* Dark modern UI
+* Minimal but premium aesthetic
+* Strong typography hierarchy
+* Smooth subtle animations
+* Glassmorphism only where appropriate
+* Responsive on all devices
+* Large project showcase cards
+* Modern developer/product engineer feel
+* Avoid generic portfolio templates
+* Avoid excessive gradients or clutter
+* Make it feel like a real SaaS/product engineer website
+
+TECH STACK:
+
+* React + Vite
+* Tailwind CSS
+* Framer Motion for animations
+* Fully responsive
+* Optimized performance
+
+SECTIONS:
+
+1. HERO SECTION
+   Headline:
+   “Full-Stack Software Engineer Building Scalable Business Systems & Production-Ready Digital Products”
+
+Subheadline:
+“I design, develop, and deploy modern web and mobile applications focused on real-world business solutions, scalable backend systems, and product-driven engineering.”
+
+Buttons:
+
+* View Projects
+* Download CV
+* Contact Me
+
+Add animated modern UI elements in the hero section.
+
+2. ABOUT SECTION
+   Introduce Michael Mireku as:
+
+* Full-stack engineer
+* Technical lead
+* Product-focused developer
+* Backend systems engineer
+* Builder of real-world business systems
+
+Mention:
+
+* 3+ years experience
+* Node.js
+* React
+* Laravel
+* Flask
+* Firebase
+* Appwrite
+* MySQL
+* Android deployment
+* Google Play Store publishing
+
+3. EXPERIENCE SECTION
+
+Phluowise Company LTD
+Role:
+Head of Development / Technical Team Lead
+
+Include:
+
+* E-commerce system for water distribution companies
+* Appwrite backend services
+* Firebase authentication & messaging
+* Android Studio packaging
+* Google Play deployment
+* Full-stack architecture
+* Technical leadership
+
+Ropat Systems
+Role:
+Web Developer
+
+Include:
+
+* Backend systems
+* Laravel/PHP systems
+* React and Node.js integrations
+* Bug fixing
+* System optimization
+* Legacy system maintenance
+
+4. PROJECTS SECTION
+
+Featured Projects:
+
+* Phluowise Business Platform
+* Citsa Konnect
+* OCR Hub
+
+Each project should include:
+
+* modern project card
+* project description
+* technologies used
+* buttons for GitHub/demo
+* clean UI
+* hover animations
+
+5. SKILLS SECTION
+
+Frontend:
+React, JavaScript, Tailwind, Bootstrap
+
+Backend:
+Node.js, Express.js, PHP(Laravel), Flask, Django
+
+Cloud & Database:
+Firebase, Appwrite, MySQL, MongoDB
+
+Tools:
+Git, GitHub, Android Studio, Linux
+
+6. GITHUB SECTION
+   Add GitHub contribution graph and stats.
+
+7. CONTACT SECTION
+   Professional CTA section encouraging recruiters and startups to connect.
+
+CONTACT DETAILS:
+Email: [michaelmireku098@gmail.com](mailto:michaelmireku098@gmail.com)
+GitHub: https://github.com/mireku098
+Portfolio: https://mireku098.github.io/portfolio
+
+ADDITIONAL REQUIREMENTS:
+
+* Use clean reusable components
+* Include smooth transitions
+* Include subtle motion effects
+* Add loading transitions
+* Make project sections visually impressive
+* Add strong mobile responsiveness
+* Use modern spacing and layout
+* Make it look production-grade, not template-like
+
+The final result should look like a professional engineer portfolio suitable for remote international opportunities and startup engineering roles.
